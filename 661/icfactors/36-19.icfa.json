@@ -6,10 +6,62 @@
         "value": 1.0
     },
     "CDD": {
-        "error": 1e-20,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.0019943208988515517,
+        "fit": "Weighted Mean",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-413",
+                "uuid": "a3f183be-825e-4ad6-8886-db04f376a060"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-414",
+                "uuid": "cc0cc3b1-207c-420b-8b64-15c9302c09f9"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-415",
+                "uuid": "0994de47-270b-4706-8285-6ae6884ab660"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-416",
+                "uuid": "7ce287b7-c316-44e7-8b9e-8e508ae9dfac"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-417",
+                "uuid": "2b7af74a-2dca-47e7-baaa-be90f1a9794c"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-418",
+                "uuid": "30c8f604-4d98-4fc8-8430-5443d4ab8b7e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-419",
+                "uuid": "b4290763-f607-47fc-8c92-d4d89259fe98"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-420",
+                "uuid": "89c069f2-622b-4b66-a43a-827d39c2569e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-421",
+                "uuid": "098c1c6e-19dc-4b8b-905c-0dc8c35a6be6"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-J-422",
+                "uuid": "c6942db0-6bfc-4d00-a161-cee45290af87"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.007587016472606
     },
     "H1": {
         "error": 1e-20,
