@@ -113,11 +113,11 @@
         "value": 1.001095375112071
     },
     "CDD": {
-        "error": 0.00114902527878702,
-        "fit": "Bracketing Interpolate",
+        "error": 0.0028652055705323826,
+        "fit": "Weighted Mean",
         "references": [
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-02-J-402",
                 "uuid": "57ff60e1-071b-4eba-8e6f-d9c6eff89694"
             },
@@ -132,12 +132,12 @@
                 "uuid": "fbb50555-8eff-4a96-b247-4fe543c02ae7"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-02-J-405",
                 "uuid": "54f8883c-fc87-4019-aaa8-0d5003c72ffa"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-02-J-406",
                 "uuid": "c25199ca-bb85-4308-b7bf-24cf632d90c0"
             },
@@ -152,7 +152,7 @@
                 "uuid": "962d71ab-4794-4552-a3b8-23c052bf91a5"
             },
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "a-02-J-409",
                 "uuid": "5cef2763-d296-417d-93f9-39ee7824751a"
             },
@@ -183,7 +183,7 @@
             }
         ],
         "reviewed": true,
-        "value": 1.0079342518245784
+        "value": 1.0070146642124458
     },
     "H1": {
         "error": 1e-20,
